@@ -1,5 +1,5 @@
-/humans.txt
-/tile.png
-/404.html
-/footer.css
-/doc/*.md
+*.humans.txt
+*.tile.png
+*.404.html
+*.footer.css
+*.doc/*.md
